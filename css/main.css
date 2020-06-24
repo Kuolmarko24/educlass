@@ -1,0 +1,40 @@
+div{
+
+}
+a{
+    background-color: #dddddd;
+    padding: 10px;
+}
+ul{
+    list-style-type: none;
+    margin: 0px;
+    float: left;
+    text-decoration: none;
+}
+#active{
+    background:red;
+}
+.card{
+    box-shadow: 10px 10px 5px 0 rgba(0,0,0,0.2);
+    width:40%;
+}
+li{
+    display: inline;
+}
+ img{
+     width:200px;
+     border:1px solid green;
+     padding:50px;
+
+ }
+ h1{
+     color:blue;
+     font-size: 12px;
+ }
+ em{
+     color: red;
+ }
+ p{
+     color: blue;
+     display: block;
+ }
